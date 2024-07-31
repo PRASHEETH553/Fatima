@@ -1,0 +1,13 @@
+body{
+    background-image: url('sad.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+pre{
+    text-align: left;
+    color: aliceblue;
+    font-size: large;
+    margin-left: 50px;
+}
